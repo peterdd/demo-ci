@@ -1,3 +1,3 @@
 # demo-ci
 
-test
+test test
